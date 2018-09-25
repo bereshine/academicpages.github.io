@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the test page.
+Hello,
 
-+Lorem ipsum.
+I am a master student major in Intelligient Information Systems at Carnegie Mellon University. Currently, I am working with Professor Jaime Callan on IR-KB project. 
+
+I have interets on information retrieval, data processing and information visualization. 
+Previously, I finished my bachelor degree at University of North Carolina at Chapel Hill.
   
