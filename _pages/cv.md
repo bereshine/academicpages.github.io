@@ -1,13 +1,23 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-####Education
+{% include base_path %}
 
+Education
+======
 Carnegie Mellon University, School of Computer Science
     Major: Master of Intelligent Information System
 University of North Carolina at Chapel Hill
     Dual Major: Computer Science and Economics
 
-####Work experience and Projects
-
+Work experience and Projects
+======
 ##Monikos. LLC, Launch Chapel Hill | Software Developer | Chapel Hill, NC   May 2017-August 2017
 
 • Worked on a website which helps pharmacy students to learn drugs with main functionality of
