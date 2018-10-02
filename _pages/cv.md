@@ -27,10 +27,12 @@ command, revised database UI by applying simple AngularJS.
 • Created on a parsing program in Python that transfers drugs’ data into JSON format automatically,
 improving efficiency of inputting drugs.
 
+
 UNC Department of Computer Science, Teaching Assistant, Chapel Hill, NC   January 2017-May 2017
 
 • Assisted class titled Introduction to Scientific Programming (MATLAB), answer students’ questions.
 Coordinated officer hour and instruct students on coding assignment using MATLAB.
+
 
 Bricks, Active Learning Program for Programming, Chapel Hill, NC September 2017-January 2018
 
@@ -42,6 +44,7 @@ SEEKR, Web Portal for Non-linear Sequence Alignment | Chapel Hill, NC August 201
 members. 
 
 • Applied Python and its framework, Flask. Implemented data visualization in Bokeh and D3.js.
+
 
 Mail server/reader Design, Chapel Hill, NC January 2017-April 2017
 
