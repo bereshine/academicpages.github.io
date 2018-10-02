@@ -20,10 +20,8 @@ Monikos. LLC, Launch Chapel Hill, Junior Software Developer, Chapel Hill, NC   M
 
     • Worked on a website which helps pharmacy students to learn drugs with main functionality of
     challenging friends, flashcards and pill games.
-
     • Transferred drugs’ data from MySQL database to MongoDB database in PHP and MongoDB
     command, revised database UI by applying simple AngularJS.
-
     • Created on a parsing program in Python that transfers drugs’ data into JSON format automatically,
     improving efficiency of inputting drugs.
 
@@ -39,10 +37,8 @@ Bricks, Active Learning Program for Programming, Chapel Hill, NC September 2017-
     • Assisted research on Active Learning for Introductory Programming
     platform called Bricks, making students get instant feedback on homework. Applied JavaScript
     SEEKR, Web Portal for Non-linear Sequence Alignment | Chapel Hill, NC August 2017-December 2017
-
     • Built a web portal to identify non-linear sequence homology of RNAs related function with 3 other team
     members. 
-
     • Applied Python and its framework, Flask. Implemented data visualization in Bokeh and D3.js.
 
 
@@ -50,5 +46,4 @@ Mail server/reader Design, Chapel Hill, NC January 2017-April 2017
 
     • Built mail server and mail reader that can work with standard Internet mail services using Simple Mail
     Transfer Protocol and Post Office Protocol, and mail readers such as Microsoft Outlook.
-
     • Applied Python and Socket Programming, Invoked Parsing Algorithm.
