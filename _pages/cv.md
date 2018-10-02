@@ -15,6 +15,7 @@ University of North Carolina at Chapel Hill
 
 Work experience and Projects
 ======
+
 Monikos. LLC, Launch Chapel Hill | Software Developer | Chapel Hill, NC   May 2017-August 2017
 
 • Worked on a website which helps pharmacy students to learn drugs with main functionality of
@@ -47,7 +48,7 @@ members.
 • Applied Python and its framework, Flask. Implemented data visualization in Bokeh and D3.js.
 
 
-Mail server/reader Design | Personal Project | Chapel Hill, NC January 2017-April 2017
+Mail server/reader Design | Chapel Hill, NC January 2017-April 2017
 
 • Built mail server and mail reader that can work with standard Internet mail services using Simple Mail
 Transfer Protocol and Post Office Protocol, and mail readers such as Microsoft Outlook.
