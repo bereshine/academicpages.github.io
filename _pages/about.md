@@ -10,7 +10,7 @@ redirect_from:
 
 Hello,
 
-I am a master student major in Intelligent Information Systems at Carnegie Mellon University. Currently, I am working with Professor Jaime Callan on IR-KB project. 
+I am a master student major in Intelligent Information Systems at Carnegie Mellon University. Currently, I am working with Professor Jamie Callan on IR-KB project. 
 
 I have interests on information retrieval, data processing and information visualization. 
 
